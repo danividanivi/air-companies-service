@@ -1,0 +1,13 @@
+{
+  "Air-Companies-DataBase": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.7",
+    "mongoose-unique-validator": "^1.0.2",
+    "passport": "^0.3.2",
+    "passport-http": "^0.3.0"
+  }
+}
